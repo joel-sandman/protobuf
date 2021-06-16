@@ -1,3 +1,9 @@
+# Protobuf
+
+Used in the thesis "Evaluation of Caching Methodologies for Microservice-Based Architectures in Kubernetes". Borrowed from [Lars Larsson](https://github.com/llarsson/protobuf).
+
+**Original README is found below.**
+
 # Research version of the Protobuf compiler
 
 This version's Go output adds a reverse proxy implementation for each service. Used in "Towards soft circuit breaking in service meshes via application-agnostic caching". Just generate Go output, it'll be there -- no special instructions.
